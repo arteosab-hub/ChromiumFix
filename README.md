@@ -79,7 +79,8 @@ su -c "cat /data/local/tmp/ChromiumFix.log"
 
 | Модуль | Описание |
 |--------|----------|
-| [UBK](../../releases) | Блокировка фоновых процессов, агрессивный Doze |
+| [UBK](https://github.com/arteosab-hub/BackgroundKiller
+) | Блокировка фоновых процессов, агрессивный Doze |
 | [X1Thermal](../../releases) | Адаптивное управление частотой Cortex-X1 для снижения нагрева |
 
 **Рекомендуемый набор:** `UBK` + `X1Thermal` + `ChromiumFix v2.1`
